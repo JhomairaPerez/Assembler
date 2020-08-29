@@ -48,6 +48,8 @@ _cuerpo:
 
 	pop ecx
 	loop _cuerpo
+
+	
 salir:
 	mov eax, 1
 	int 80H
