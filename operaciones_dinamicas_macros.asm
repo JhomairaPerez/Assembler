@@ -1,6 +1,6 @@
 ;Jhomaira Alexandra Pérez Quezada
 ;22-06-2020
-;Programa que realiza las operaciones basicas(suma,resta, multiplicacion y division) de dos números ingresados por teclado
+;Programa que realiza las operaciones basicas(suma,resta, multiplicacion y division) de  2 números ingresados por teclado
 
 %macro escribir 2
     mov eax, 4
