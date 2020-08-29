@@ -1,5 +1,5 @@
 ;Jhomaira Pérez
-;Programa que realiza la multiplicacion basica de dos números estaticos no se ingresara por teclado
+;Programa que realiza la multiplicacion basica de dos números estaticos no se ingresara por teclado clase
 
 section .data
 msg1 db "La multiplicacion es: "
