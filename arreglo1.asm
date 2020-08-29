@@ -1,6 +1,6 @@
 ;JhomairaPerez
 ;03-08-2020
-;Arreglo
+;Arreglo uso
 
 section .data
 
