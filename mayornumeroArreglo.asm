@@ -14,8 +14,7 @@ section .data
     new_line db 10,''
 
 section .bss
-
-  numero resb 2
+    numero resb 2
 
 section .text
     global _start
